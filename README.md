@@ -1,6 +1,6 @@
 # YouTube Video Transcript Analyzer 
 
-Welcome to the **yt_api_video_intel_data_science_vizs** repository. This repository contains a Python-based data science project that leverages the YouTube Data API and the YouTube Transcript API for extracting, analyzing, and visualizing YouTube video transcript data. 
+Welcome to the **DataViz-YT_API_LexCIA_VideoIntel** repository. This repository contains a Python-based data science project that leverages the YouTube Data API and the YouTube Transcript API for extracting, analyzing, and visualizing YouTube video transcript and comment data. 
 
 ## Description
 
@@ -44,4 +44,4 @@ For a comprehensive understanding of the project, we recommend going through the
 
 ---
 
-Created by the yt_api_video_intel_data_science_vizs team.
+Created by the ML-YouTubeTranscriptAnalyzer team.
